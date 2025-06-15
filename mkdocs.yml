@@ -1,10 +1,20 @@
 site_name: Leetcode Practice
 site_url: https://OREShake.github.io/leetcode_practice
+
 theme:
   name: material
+  toc_depth: 1
   features:
     - content.code.copy
     - content.code.annotate
+    - navigation.instant
+
+nav:
+  - Home: index.md
+  - Leetcode Practice:
+      - Arrays: Arrays.md
+      - Strings: Strings.md
+      - Hash Tables: Hash_Tables.md
 
 markdown_extensions:
   - pymdownx.highlight:
