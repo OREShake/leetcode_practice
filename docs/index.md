@@ -5,3 +5,5 @@
 ## Содержание
 
 - [Arrays](Arrays.md)
+- [Strings](Strings.md)
+- [Hash Tables](Hash_Tables.md)
