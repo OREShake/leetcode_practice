@@ -7,3 +7,6 @@
 - [Arrays](Arrays.md)
 - [Strings](Strings.md)
 - [Hash Tables](Hash_Tables.md)
+- [Two Pointers](Two_Pointers.md)
+- [Sliding Window Fixed Size](Sliding_Window_Fixed_Size.md)
+- [Sliding Window Dynamic Size](Sliding_Window_Dynamic_Size.md)
